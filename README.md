@@ -1,4 +1,4 @@
-# HTML5 Test Page
+# HTML5 Test Page with Normalize.css applied
 
 [![npm version](https://badge.fury.io/js/html5-test-page.svg)](https://badge.fury.io/js/html5-test-page)
 
